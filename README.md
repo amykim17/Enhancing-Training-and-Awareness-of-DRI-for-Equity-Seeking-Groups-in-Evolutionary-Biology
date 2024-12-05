@@ -44,6 +44,7 @@ This project is licensed under the Creative Commons License 1.0 Universal
 ## Citing & Acknowledgement
 
 **Citation Instructions:** If you would like to cite this project, please use the project name and cite the members above who have contributed to the project.
+
 **Acknowledgment:** Recognising contributions by different members.
 
 ## Contact
