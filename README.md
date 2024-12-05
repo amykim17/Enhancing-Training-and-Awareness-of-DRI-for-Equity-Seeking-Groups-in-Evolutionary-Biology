@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/License-CC_BY_1.0-purple) ![Static Badge](https://img.shields.io/badge/Deps-Up--to--date-green)
 
 
-## This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and current research in the field. This project’s goal is to provide individuals from all walks of life to have free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers.
+# This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and current research in the field. This project’s goal is to provide individuals from all walks of life to have free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers.
 
 - **Vision:** One sentence capturing the project's overarching vision.
 - **Mission:** One sentence defining the project's goals and target audience.
@@ -18,16 +18,16 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
 ## The Team
 
 **Members:**
-- Amy Kim (PhD candidate, The university of British Columbia)
-- Xingwan Yi (Post-doc, The University of British Columbia)
-- Zhiqin Long (PhD student, The University of British Columbia)
-- Yue Yu (PhD candidate, The University of British Columbia)
+- **Amy Kim** (PhD candidate, The university of British Columbia)
+- **Xingwan Yi** (Post-doc, The University of British Columbia)
+- **Zhiqin Long** (PhD student, The University of British Columbia)
+- **Yue Yu** (PhD candidate, The University of British Columbia)
   
 **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
-- Amy Kim: Project lead. Manages the project and coordinates the team. Helps create timelines, gather and develop materials, and execute tasks related to the project.
-- Xingwan Yi: Develops the main training modules for the website.
-- Zhiqin Long: Assists in developing and editing training materials for the website.
-- Yue YU: Assists in developing and editing training materials for the website.
+- **Amy Kim**: Project lead. Manages the project and coordinates the team. Helps create timelines, gather and develop materials, and oversees tasks related to the project until completion.
+- **Xingwan Yi**: Project assistant. Helps develop the main training modules for the website.
+- **Zhiqin Long**: Project member. Assists in developing and editing training materials for the website.
+- **Yue YU**: Project member. Assists in developing and editing training materials for the website.
   
 ## Contributing
 
@@ -41,8 +41,8 @@ This project is licensed under the Creative Commons License 1.0 Universal
 
 ## Citing & Acknowledgement
 
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+**Citation Instructions:** If you would like to cite this project, please use the project name and cite the members above who have contributed to the project.
+**Acknowledgment:** Recognising contributions by different members.
 
 ## Contact
 
