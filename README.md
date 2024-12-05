@@ -1,4 +1,5 @@
-https://img.shields.io/badge/License-CC_BY_1.0-purple https://img.shields.io/badge/Deps-Up--to--date-green
+![Static Badge](https://img.shields.io/badge/License-CC_BY_1.0-purple) ![Static Badge](https://img.shields.io/badge/Deps-Up--to--date-green)
+
 
 ##This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and current research in the field. This project’s goal is to provide individuals from all walks of life to have free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers.
 
