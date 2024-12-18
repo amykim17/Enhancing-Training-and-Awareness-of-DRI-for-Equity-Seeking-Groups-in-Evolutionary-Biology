@@ -3,7 +3,7 @@
 
 ## Enhancing Training and Awareness of DRI for Equity Seeking Groups in Evolutionary Biology
 
-This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and current research in the field. This project’s goal is to provide individuals from all walks of life to have free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers.
+This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and highlight current research in the field. This project’s goal is to provide individuals from all walks of life with free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers to share, collaborate, and learn together.
 
 - **Vision:** One sentence capturing the project's overarching vision.
 - **Mission:** One sentence defining the project's goals and target audience.
