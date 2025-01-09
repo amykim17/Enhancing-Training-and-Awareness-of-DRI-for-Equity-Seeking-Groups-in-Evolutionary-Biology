@@ -5,15 +5,22 @@
 
 This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and current research in the field. This project’s goal is to provide individuals from all walks of life with free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers to share, collaborate, and learn together.
 
-- **Vision & Mission:** We are creating a free and public online resource for researchers and students to access theoretical knowledge and bioinformatic methods in evolutionary biology, as well as run free and public workshops to facilitate an open-discussion on challenges in DRI training and accessibility and basic bioinformatic training. This will increase accessibility to DRI training, especially for individuals with limited resources, and raise awareness on issues and barriers that may be present, ensuring that everyone has equal access to scientific resources. This project is targeted towards undergraduate students, graduate students, and early-career researchers, particularly those in equity-seeking groups, and will involve individuals from these groups to inform the creation of these resources.
+🌱 ###**Vision & Mission:** We are creating a free and public online resource for researchers and students to access theoretical knowledge and bioinformatic methods in evolutionary biology, as well as run free and public workshops to facilitate an open-discussion on challenges in DRI training and accessibility and basic bioinformatic training. This will increase accessibility to DRI training, especially for individuals with limited resources, and raise awareness on issues and barriers that may be present, ensuring that everyone has equal access to scientific resources. This project is targeted towards undergraduate students, graduate students, and early-career researchers, particularly those in equity-seeking groups, and will involve individuals from these groups to inform the creation of these resources.
 ## About
 
-We are a group of evolutionary biologists from the Biodiversity Research Centre at the University of British Columbia situated on the lands of the Musqueam First Nation. We are motivated to help budding and equity-seeking biologists, who do not have free and open access to important resources, to assist them in their scientific journey. We hope that this website will be a safe and welcoming environment for individuals to learn, explore, and collaborate.
+We are a group of evolutionary biologists from the Biodiversity Research Centre at the University of British Columbia situated on the lands of the Musqueam First Nation. We are motivated to help budding and equity-seeking biologists, who do not have free and public access to crucial resources, to assist them in their scientific journey. We hope that this website will be a safe and welcoming environment for individuals to learn, explore, and collaborate.
 
 ## Roadmap & Milestones
 
 - **Goals:** Clear overview of overarching and short-term goals.
+    - Understand the challenges and barriers for equity-seeking groups when accessing DRI resources and training
+    - Create a free and public website with theoretical background knowledge in evolutionary biology, bioinformatic training materials, and current research in the field to reduce
+      certain challenges and barriers
+    - Hold a workshop to openly dicuss how to mitigate challenges and barriers presented to equity-seeking groups when accessing DRI resources and training
+    - Collaborate with others to hold an introductory training workshop to bioinformatics for undergraduates, graduate students, and early career researchers
+    - Share the website and any other relevant resources on social media and other platforms 
 - **Outcomes:** Description of expected results and deliverables.
+    - 
 
 ## The Team
 
