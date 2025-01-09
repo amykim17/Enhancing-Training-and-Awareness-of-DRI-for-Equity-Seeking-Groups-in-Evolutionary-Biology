@@ -3,11 +3,9 @@
 
 ## Enhancing Training and Awareness of DRI for Equity Seeking Groups in Evolutionary Biology
 
-This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and highlight current research in the field. This project’s goal is to provide individuals from all walks of life with free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers to share, collaborate, and learn together.
+This project will be a central and public resource for all evolutionary biologists that contains important theoretical background knowledge, training materials, and current research in the field. This project’s goal is to provide individuals from all walks of life with free and open access to crucial knowledge and materials in evolutionary biology and to create a community of students, researchers, and teachers to share, collaborate, and learn together.
 
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
-
+- **Vision & Mission:** We are creating a free and public online resource for researchers and students to access theoretical knowledge and bioinformatic methods in evolutionary biology, as well as run free and public workshops to facilitate an open-discussion on challenges in DRI training and accessibility and basic bioinformatic training. This will increase accessibility to DRI training, especially for individuals with limited resources, and raise awareness on issues and barriers that may be present, ensuring that everyone has equal access to scientific resources. This project is targeted towards undergraduate students, graduate students, and early-career researchers, particularly those in equity-seeking groups, and will involve individuals from these groups to inform the creation of these resources.
 ## About
 
 We are a group of evolutionary biologists from the Biodiversity Research Centre at the University of British Columbia situated on the lands of the Musqueam First Nation. We are motivated to help budding and equity-seeking biologists, who do not have free and open access to important resources, to assist them in their scientific journey. We hope that this website will be a safe and welcoming environment for individuals to learn, explore, and collaborate.
