@@ -29,7 +29,7 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
 - **Amy Kim**: Project lead. Manages the project and coordinates the team. Helps create timelines, gather and develop materials, and oversees tasks related to the project until completion.
 - **Xingwan Yi**: Project assistant. Helps develop the main training modules for the website.
 - **Zhiqin Long**: Project member. Assists in developing and editing training materials for the website.
-- **Yue YU**: Project member. Assists in developing and editing training materials for the website.
+- **Yue Yu**: Project member. Assists in developing and editing training materials for the website.
   
 ## Contributing
 
