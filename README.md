@@ -23,7 +23,10 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
     - Create a survey to deterimine challenges and barriers faced by equity-seeking groups when accessing DRI resources and training and how we can improve upon accessibility to           current training and resources
     - Summarize the findings from the survey, discuss with team members, and incorporate findings into the development of our project
     - Create a free and public website using WordPress that will include the theoretical background knowledge, training materials, and current research
-    - Hold a workshop and invite participants to discuss
+    - Develop training modules with collaborators and determine the most important analyses and background information for evolutionary biologists
+    - Hold a workshop and invite participants to discuss challenges and barriers related to DRI training and accessibility
+    - Hold an introductory training workshop for basic bioinformatic skills to help people get started
+    - Create a social media account or ask department/student organizations to share our project with students and researchers that would find these workshops and resources helpful
 
 ## The Team
 
