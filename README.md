@@ -19,6 +19,7 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
     - Hold a workshop to openly dicuss how to mitigate challenges and barriers presented to equity-seeking groups when accessing DRI resources and training
     - Collaborate with others to hold an introductory training workshop to bioinformatics for undergraduates, graduate students, and early career researchers
     - Share the website and any other relevant resources on social media and other platforms 
+
 🌱 **Outcomes:** Description of expected results and deliverables.
     - Create a survey to deterimine challenges and barriers faced by equity-seeking groups when accessing DRI resources and training and how we can improve upon accessibility to           current training and resources
     - Summarize the findings from the survey, discuss with team members, and incorporate findings into the development of our project
