@@ -12,14 +12,14 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
+🌱 **Goals:** Clear overview of overarching and short-term goals.
     - Understand the challenges and barriers for equity-seeking groups when accessing DRI resources and training
     - Create a free and public website with theoretical background knowledge in evolutionary biology, bioinformatic training materials, and current research in the field to reduce
       certain challenges and barriers
     - Hold a workshop to openly dicuss how to mitigate challenges and barriers presented to equity-seeking groups when accessing DRI resources and training
     - Collaborate with others to hold an introductory training workshop to bioinformatics for undergraduates, graduate students, and early career researchers
     - Share the website and any other relevant resources on social media and other platforms 
-- **Outcomes:** Description of expected results and deliverables.
+🌱 **Outcomes:** Description of expected results and deliverables.
     - Create a survey to deterimine challenges and barriers faced by equity-seeking groups when accessing DRI resources and training and how we can improve upon accessibility to           current training and resources
     - Summarize the findings from the survey, discuss with team members, and incorporate findings into the development of our project
     - Create a free and public website using WordPress that will include the theoretical background knowledge, training materials, and current research
@@ -30,13 +30,13 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
 
 ## The Team
 
-**Members:**
+🌱 **Members:**
 - **Amy Kim** (PhD candidate, The university of British Columbia)
 - **Xingwan Yi** (Post-doc, The University of British Columbia)
 - **Zhiqin Long** (PhD student, The University of British Columbia)
 - **Yue Yu** (PhD candidate, The University of British Columbia)
   
-**Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+🌱 **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
 - **Amy Kim**: Project lead. Manages the project and coordinates the team. Helps create timelines, gather and develop materials, and oversees tasks related to the project until completion.
 - **Xingwan Yi**: Project assistant. Helps develop the main training modules for the website.
 - **Zhiqin Long**: Project member. Assists in developing and editing training materials for the website.
@@ -45,7 +45,7 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
 ## Contributing
 
 - **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
+- **Code of Conduct:** [Code of Conduct](https://github.com/amykim17/Enhancing-Training-and-Awareness-of-DRI-for-Equity-Seeking-Groups-in-Evolutionary-Biology/blob/main/CODE_OF_CONDUCT.md) ensures a respectful project environment.
 - **Resource Plans:** Details on available resources and recommended practices for the project team.
 
 ## Licensing
