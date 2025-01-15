@@ -15,7 +15,6 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
 ## Roadmap & Milestones
 
 🌱 **Goals:** 
-
     - Understand the challenges and barriers for equity-seeking groups when accessing DRI resources and training
     - Create a free and public website with theoretical background knowledge in evolutionary biology, bioinformatic training materials, and current research in the field to reduce
       certain challenges and barriers
@@ -24,7 +23,6 @@ We are a group of evolutionary biologists from the Biodiversity Research Centre 
     - Share the website and any other relevant resources on social media and other platforms 
 
 🌱 **Outcomes:** 
-
     - Create a survey to deterimine challenges and barriers faced by equity-seeking groups when accessing DRI resources and training and how we can improve upon accessibility to           current training and resources
     - Summarize the findings from the survey, discuss with team members, and incorporate findings into the development of our project
     - Create a free and public website using WordPress that will include the theoretical background knowledge, training materials, and current research
